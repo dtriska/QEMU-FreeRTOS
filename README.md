@@ -39,4 +39,9 @@ Then, in a separate terminal, start GDB with the following command:
 ```bash
 arch-gdb output/RTOSDemo.out
 ```
+Then connect to QEMU
+```bash
+target remote:1234
+```
+Set breakpoints and debug
 
