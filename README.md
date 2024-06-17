@@ -2,6 +2,10 @@
 
 This repository contains the FreeRTOS project for the ARM Cortex-M7 using QEMU for emulation. This includes all previous iterations of code and several self-made demos to test different features.
 
+## Goal of the Project
+
+The goal of this project is to demonstrate a simulated LED blinker. Users can run the project with the debugger and toggle the `xBlinkingEnabled` variable to simulate toggling the LED.
+
 ## Directory Structure
 
 - **FreeRTOSv202212.01/FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC**: Contains all previous iterations of code and various self-made demos.
