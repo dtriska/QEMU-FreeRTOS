@@ -17,8 +17,8 @@ To build the project, navigate to the build directory and run the following comm
 
 ```bash
 cd FreeRTOSv202212.01/FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC/build/gcc
-make
 make clean
+make
 ```
 ## Running the Project
 ### Running QEMU without Debugger
