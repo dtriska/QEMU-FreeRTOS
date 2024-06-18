@@ -9,7 +9,7 @@ The goal of this project is to demonstrate a simulated LED blinker. Users can ru
 ## Directory Structure
 
 - **FreeRTOSv202212.01/FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC**: Contains all previous iterations of code and various self-made demos.
-- **FreeRTOSv202212.01/FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC/build/gcc**: Current version directory.
+- **FreeRTOSv202212.01/FreeRTOS/Demo/CORTEX_MPS2_QEMU_IAR_GCC/build/gcc**: Current build directory.
 
 ## Building the Project
 
