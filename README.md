@@ -45,3 +45,7 @@ target remote:1234
 ```
 Set breakpoints and debug
 
+## Example Output with debugger
+![Screenshot from 2024-06-18 08-29-56](https://github.com/dtriska/QEMU-FreeRTOS/assets/112901210/9928989e-ce83-4652-be30-58e3074e1791)
+
+
