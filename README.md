@@ -37,7 +37,7 @@ qemu-system-arm -machine mps2-an500 -cpu cortex-m7 -kernel output/RTOSDemo.out -
 ```
 Then, in a separate terminal, start GDB with the following command:
 ```bash
-arch-gdb output/RTOSDemo.out
+gdb-multiarch output/RTOSDemo.out
 ```
 Then connect to QEMU
 ```bash
