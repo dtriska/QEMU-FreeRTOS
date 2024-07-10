@@ -1,3 +1,0 @@
-# Set the compiler flags
-set(CMAKE_C_FLAGS_INIT "-mprocessor=ATSAME70Q21B -D__SAME70Q21B__ -isystem ${XC32_DIR}/include -isystem /opt/microchip/mplabx/v6.20/packs/Microchip/SAME70_DFP/4.10.248/same70b/xc32/include -isystem /opt/microchip/mplabx/v6.20/packs/Microchip/SAME70_DFP/4.10.248/same70b/include_mcc -isystem /opt/microchip/mplabx/v6.20/packs/Microchip/SAME70_DFP/4.10.248/same70b/include")
-set(CMAKE_EXE_LINKER_FLAGS_INIT "-specs=/opt/microchip/mplabx/v6.20/packs/Microchip/SAME70_DFP/4.10.248/same70b/xc32/ATSAME70Q21B/specs-ATSAME70Q21B")
